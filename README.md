@@ -70,30 +70,30 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeram-Kraskens&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeram-Kraskens&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeramkraskens&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeramkraskens&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeram-Kraskens&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeramkraskens&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <h3 align="center">Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeram-Kraskens&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeramkraskens&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </p>
 
 <h3 align="center">Current Status</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20work-brightgreen?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Jeram-Kraskens&label=Profile%20Views&color=1BFFFF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jeramkraskens&label=Profile%20Views&color=1BFFFF&style=for-the-badge" />
 </p>
 
 ---
 
 <!-- Contribution snake animation — activate with the GitHub Action described below -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeram-Kraskens/Jeram-Kraskens/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/jeramkraskens/jeramkraskens/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </p>
 
 <!-- Animated footer wave -->
