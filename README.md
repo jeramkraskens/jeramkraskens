@@ -1,6 +1,6 @@
 <!-- Animated wave header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Jeram%20Kraskens&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20frontend%20developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Jeram%20Kraskens&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Web%20developer&descAlignY=55&descSize=18" />
 </p>
 
 <!-- Animated typing subtitle -->
